@@ -1,0 +1,19 @@
+{
+  "name": "be-selective",
+  "version": "0.0.0",
+  "description": "be-selective has a most unhappy job.  Its role is extremely limited, and all it does is act as a gatekeeper.  And its days may be numbered, as it wouldn't serve much of a purpose if https://github.com/WICG/webcomponents/issues/809 is ever addressed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/be-selective.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahrus/be-selective/issues"
+  },
+  "homepage": "https://github.com/bahrus/be-selective#readme"
+}
